@@ -1,5 +1,5 @@
 # Building-LLM-Powered-Applications
-This is the code repository for [Building LLM Powered Application](https://www.amazon.in/Building-LLM-Apps-Intelligent-Language-ebook/dp/B0CMD2W6Q5/ref=sr_1_1?crid=2LL0C0LMSKPM6&dib=eyJ2IjoiMSJ9.DEphvN2ScVuQzpjIGvwjew.XSR1MjKXZ__UKVISKZIx67efPb1cpj9WniOhpxtqz98&dib_tag=se&keywords=9781835462317&qid=1716360537&sprefix=9781835462317%2Caps%2C209&sr=8-1), Published by Packt.
+This is the code repository for [Building LLM Powered Application](https://www.amazon.in/Building-LLM-Apps-Intelligent-Language-ebook/dp/B0CMD2W6Q5/ref=sr_1_1?crid=2LL0C0LMSKPM6&dib=eyJ2IjoiMSJ9.DEphvN2ScVuQzpjIGvwjew.XSR1MjKXZ__UKVISKZIx67efPb1cpj9WniOhpxtqz98&dib_tag=se&keywords=9781835462317&qid=1716360537&sprefix=9781835462317%2Caps%2C209&sr=8-1), Published by Packt and updated to use it with python and new function call
 
 **Create intelligent apps and agents with large language models**
 
