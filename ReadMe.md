@@ -33,5 +33,5 @@ The book provides a solid theoretical foundation of what LLMs are, their archite
 12. Responsible AI
 13. Emerging Trends and Innovations
 
-## Get to Know the Author
+## Get to Know the Author Valentina Alto
 After completing her bachelor's degree in finance, *Valentina Alto* pursued a master's degree in data science in 2021. She began her professional career at Microsoft as an Azure Solution Specialist, and since 2022, she has been primarily focused on working with Data & AI solutions in the Manufacturing and Pharmaceutical industries. Valentina collaborates closely with system integrators on customer projects, with a particular emphasis on deploying cloud architectures that incorporate modern data platforms, data mesh frameworks, and applications of Machine Learning and Artificial Intelligence.
