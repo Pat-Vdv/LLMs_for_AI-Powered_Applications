@@ -3,4 +3,4 @@
 data/
 *.csv
 *.pkl
-
+.gitignore
