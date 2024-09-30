@@ -1,1 +1,6 @@
-
+.env
+.venv/
+data/
+*.csv
+*.pkl
+.gitignore
