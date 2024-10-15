@@ -3,6 +3,14 @@ This is the code repository for [Building LLM Powered Application](https://www.a
 
 **Create intelligent apps and agents with large language models**
 
+# Install packages with pip and requirements.txt
+The following command installs packages in bulk according to the configuration file, requirements.txt. In some environments, use pip3 instead of pip.
+
+**$ pip install -r requirements.txt**
+The configuration file can be named arbitrarily, though requirements.txt is commonly used.
+Place requirements.txt in the directory where you plan to run the command. If the file is in a different directory, specify its path, for example, path/to/requirements.txt.
+
+
 ## About the book
 The book provides a solid theoretical foundation of what LLMs are, their architecture. With a hands-on approach we provide readers with a step-by-step guide to implementing LLM-powered apps for specific tasks and using powerful frameworks like LangChain.
 
